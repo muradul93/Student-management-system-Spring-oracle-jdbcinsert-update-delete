@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Student_Login_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/class.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/edit_teacher.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Admin_Logout.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/Student_View_Model.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Edit_Teacher_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/AdminLoginModel.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/.gitignore</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/Database_Connection.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/Delete_Teacher_Model.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Student_Registration_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/Teacher_Login_Model.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/Teacher_View_Model.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Teacher_Logout_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/AdminLogin.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/teacher_login.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/Edit_Teacher_Model.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Teacher_View_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/Edit_Student_Model.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Edit_Student_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/student_dashboard.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/student_login.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/.gitmodules</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/view_teacher_profile.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/index.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Teacher_Registration_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/admin_login.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/edit_student.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Delete_Student_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/Student_Login_Model.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/README.md</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/teacher_dashboard.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Student_Logout_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/Model_Class/Delete_Student_Model.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Delete_Teacher_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/index.html</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/src/java/ServletController/Teacher_Login_Controller.java</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/view_student_profile.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/admin_dashboard.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/student.jsp</file>
+            <file>file:/H:/acm%20java/Group(F)/Student-Management-System/web/teacher.jsp</file>
+        </group>
+    </open-files>
+</project-private>
